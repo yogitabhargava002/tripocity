@@ -1,28 +1,61 @@
 // var cityName = prompt("Please enter City name", "<name goes here>");
 function hotelDetails(cityName){
-if (cityName!= null) {
-    const settings = {
-        "async": true,
-        "crossDomain": true,
-        "url": "https://hotels4.p.rapidapi.com/locations/v2/search?query="+cityName+"&locale=en_US&currency=INR",
-        "method": "GET",
-        "headers": {
-            "x-rapidapi-host": "hotels4.p.rapidapi.com",
-            "x-rapidapi-key": "b0c2038476msh5eafbb3d1ee5b77p1accc4jsn6d571ee650a7"
-        }
-    };
+    if (cityName!= null) {
+        const settings = {
+            "async": true,
+            "crossDomain": true,
+            "url": "https://hotels4.p.rapidapi.com/locations/v2/search?query="+cityName+"&locale=en_US&currency=INR",
+            "method": "GET",
+            "headers": {
+                "x-rapidapi-host": "hotels4.p.rapidapi.com",
+                "x-rapidapi-key": "b0c2038476msh5eafbb3d1ee5b77p1accc4jsn6d571ee650a7"
+            }
+        };
 
-    $.ajax(settings).done(function (response) {
-        var hotels = response.suggestions[1].entities
-        console.log(hotels);
-        
-        for (let i = 0; i < hotels.length; i++) {
-            // console.log(i);
-            $('#cityDetails').append(hotels[i].name,'<hr>');
-        }
-    });
+        $.ajax(settings).done(function (response) {
+            var hotels = response.suggestions[1].entities
+            console.log(hotels);
+            
+            for (let i = 0; i < hotels.length; i++) {
+                // console.log(i);
+                $('#cityDetails').append(i+1,'. ',hotels[i].name,' ',hotels[i].destinationId,'<hr>');
+            }
+        });
+    }
 }
-}
+
+
+const settings = {
+	"async": true,
+	"crossDomain": true,
+	"url": "https://hotels4.p.rapidapi.com/reviews/v2/list?hotelId=1081442560&reviewOrder=date_newest_first&tripTypeFilter=all",
+	"method": "GET",
+	"headers": {
+		"x-rapidapi-host": "hotels4.p.rapidapi.com",
+		"x-rapidapi-key": "b0c2038476msh5eafbb3d1ee5b77p1accc4jsn6d571ee650a7"
+	}
+};
+
+$.ajax(settings).done(function (response) {
+	console.log(response);
+});
+
+// const settings = {
+// 	"async": true,
+// 	"crossDomain": true,
+// 	"url": "https://hotels4.p.rapidapi.com/properties/get-details?id=1081442560&checkIn=2020-01-08&checkOut=2020-01-15&adults1=1&currency=USD&locale=en_US",
+// 	"method": "GET",
+// 	"headers": {
+// 		"x-rapidapi-host": "hotels4.p.rapidapi.com",
+// 		"x-rapidapi-key": "b0c2038476msh5eafbb3d1ee5b77p1accc4jsn6d571ee650a7"
+// 	}
+// };
+
+// $.ajax(settings).done(function (response) {
+// 	console.log(response);
+// });
+
+
 
 // const settings = {
 // 	"async": true,

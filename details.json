@@ -1,0 +1,388 @@
+{
+    4 items
+"result": "OK"
+"data": {
+        2 items
+"body": {
+            12 items
+"pdpHeader": {
+                6 items
+"hotelId": "1081442560"
+"destinationId": "12479195"
+"pointOfSaleId": "HCOM_US"
+"currencyCode": "USD"
+"occupancyKey": "A1"
+"hotelLocation": {
+                    3 items
+"coordinates": {
+                        2 items
+"latitude": 23.1689
+"longitude": 77.4636
+                    }
+"resolvedLocation": "CITY:12479195:PROVIDED:PROVIDED"
+"locationName": "Dīp"
+                }
+            }
+"overview": {
+                1 item
+"overviewSections": [
+                    4 items
+0: {
+                        4 items
+"title": "Main amenities"
+"type": "HOTEL_FEATURE"
+"content": [
+                            13 items
+0: "40 guestrooms"
+1: "Daily housekeeping"
+2: "Restaurant"
+3: "1 outdoor pool"
+4: "24-hour health club"
+5: "24-hour business center"
+6: "Terrace"
+7: "24-hour front desk"
+8: "Air conditioning"
+9: "Garden"
+10: "Laundry service"
+11: "Concierge services"
+12: "Free WiFi and free parking "
+                        ]
+"contentType": "LIST"
+                    }
+1: {
+                        4 items
+"title": "What’s around"
+"type": "LOCATION_SECTION"
+"content": [
+                            10 items
+0: "Oasis Academy - 5.1 mi / 8.1 km"
+1: "Birla Mandir Museum - 6.6 mi / 10.6 km"
+2: "Buddhist Monuments at Sanchi - 6.8 mi / 11 km"
+3: "TT Nagar Stadium - 7.1 mi / 11.5 km"
+4: "New Market - 7.3 mi / 11.7 km"
+5: "Bharat Bhavan - 8.1 mi / 13.1 km"
+6: "Regional Science Center - 8.1 mi / 13.1 km"
+7: "State Museum of Madhya Pradesh - 8.2 mi / 13.2 km"
+8: "Moti Masjid - 8.3 mi / 13.3 km"
+9: "Imam Square - 8.3 mi / 13.4 km"
+                        ]
+"contentType": "LIST"
+                    }
+2: {
+                        3 items
+"type": "TAGLINE"
+"content": [
+                            1 item
+0: "<b>3.5-star hotel in Bhopal with outdoor pool and restaurant </b>"
+                        ]
+"contentType": "LIST"
+                    }
+3: {
+                        3 items
+"type": "HOTEL_FREEBIES"
+"content": [
+                            1 item
+0: "Free WiFi and free parking"
+                        ]
+"contentType": "LIST"
+                    }
+                ]
+            }
+"hotelWelcomeRewards": {
+                2 items
+"applies": true
+"info": "You can collect Hotels.com® Rewards stamps here"
+            }
+"propertyDescription": {
+                10 items
+"clientToken": "mPqS_0m81BHR_0SGmfzfLzjx7-I."
+"address": {
+                    7 items
+"countryName": "India"
+"cityName": "Bhopal"
+"postalCode": "462004"
+"addressLine1": "Near Rajpal Toyota, Hoshangabad Road"
+"countryCode": "IND"
+"pattern": "AddressLine1,#AddressLine2,#CityName,#ProvinceName,#PostalCode,#CountryName"
+"fullAddress": "Near Rajpal Toyota, Hoshangabad Road, Bhopal, 462004, India"
+                }
+"priceMatchEnabled": false
+"name": "Citrus Prime Bhopal"
+"starRatingTitle": "3.5 stars"
+"starRating": 3.5
+"mapWidget": {
+                    1 item
+"staticMapUrl": "https://maps-api-ssl.google.com/maps/api/staticmap?center=23.1689,77.4636&format=jpg&sensor=false&key=AIzaSyDaDqDNrxWrxcURixO2l6TbtV68X0Klf4U&zoom=16&size=834x443&scale&signature&signature=OmWW1ATS1jamdO7Yop1vFuo-JZ8="
+                }
+"roomTypeNames": [
+                    4 items
+0: "Superior King Room "
+1: "Premium Twin Room"
+2: "Premium King Room"
+3: "Studio, 1 King Bed"
+                ]
+"tagline": [
+                    1 item
+0: "<b>3.5-star hotel in Bhopal with outdoor pool and restaurant </b>"
+                ]
+"freebies": [
+                    1 item
+0: "Free WiFi and free parking"
+                ]
+            }
+"guestReviews": {
+                0 items
+            }
+"atAGlance": {
+                3 items
+"keyFacts": {
+                    4 items
+"hotelSize": [
+                        1 item
+0: "This hotel has 40 rooms"
+                    ]
+"arrivingLeaving": [
+                        2 items
+0: "Check-in time starts at  2:00 PM"
+1: "Check-out time is  noon"
+                    ]
+"specialCheckInInstructions": [
+                        1 item
+0: "Front desk staff will greet guests on arrival. "
+                    ]
+"requiredAtCheckIn": [
+                        3 items
+0: "Credit card, debit card, or cash deposit required for incidental charges"
+1: "Government-issued photo ID may be required"
+2: "Minimum check-in age is 18"
+                    ]
+                }
+"travellingOrInternet": {
+                    2 items
+"travelling": {
+                        3 items
+"children": [
+                            0 items
+                        ]
+"pets": [
+                            1 item
+0: "Pets not allowed"
+                        ]
+"extraPeople": [
+                            0 items
+                        ]
+                    }
+"internet": [
+                        2 items
+0: "Free WiFi in public areas"
+1: "Free WiFi in rooms"
+                    ]
+                }
+"transportAndOther": {
+                    3 items
+"transport": {
+                        3 items
+"transfers": [
+                            0 items
+                        ]
+"parking": [
+                            4 items
+0: "<em>Free</em> onsite self parking"
+1: "<em>Free</em> onsite valet parking"
+2: "Wheelchair-accessible parking on site"
+3: "<em>Free</em> offsite parking nearby"
+                        ]
+"offsiteTransfer": [
+                            0 items
+                        ]
+                    }
+"otherInformation": [
+                        0 items
+                    ]
+"otherInclusions": [
+                        0 items
+                    ]
+                }
+            }
+"amenities": [
+                2 items
+0: {
+                    2 items
+"heading": "In the hotel"
+"listItems": [
+                        7 items
+0: {
+                            2 items
+"heading": "Food and drink"
+"listItems": [
+                                2 items
+0: "Restaurant"
+1: "24-hour room service"
+                            ]
+                        }
+1: {
+                            2 items
+"heading": "Things to do"
+"listItems": [
+                                1 item
+0: "Number of outdoor pools -  1"
+                            ]
+                        }
+2: {
+                            2 items
+"heading": "Working away"
+"listItems": [
+                                3 items
+0: "24-hour business center"
+1: "Meeting rooms"
+2: "Conference center"
+                            ]
+                        }
+3: {
+                            2 items
+"heading": "Services"
+"listItems": [
+                                4 items
+0: "24-hour front desk"
+1: "Concierge services"
+2: "Dry cleaning/laundry service"
+3: "Luggage storage"
+                            ]
+                        }
+4: {
+                            2 items
+"heading": "Facilities"
+"listItems": [
+                                4 items
+0: "Elevator"
+1: "Designated smoking areas"
+2: "Garden"
+3: "Terrace"
+                            ]
+                        }
+5: {
+                            2 items
+"heading": "Accessibility"
+"listItems": [
+                                1 item
+0: "Wheelchair-accessible parking"
+                            ]
+                        }
+6: {
+                            2 items
+"heading": "Languages Spoken"
+"listItems": [
+                                2 items
+0: "English"
+1: "Hindi"
+                            ]
+                        }
+                    ]
+                }
+1: {
+                    2 items
+"heading": "In the room"
+"listItems": [
+                        5 items
+0: {
+                            2 items
+"heading": "Home comforts"
+"listItems": [
+                                2 items
+0: "Air conditioning"
+1: "Minibar"
+                            ]
+                        }
+1: {
+                            2 items
+"heading": "Freshen up"
+"listItems": [
+                                3 items
+0: "Private bathroom"
+1: "Shower only"
+2: "Free toiletries"
+                            ]
+                        }
+2: {
+                            2 items
+"heading": "Be entertained"
+"listItems": [
+                                2 items
+0: "Flat-screen TV"
+1: "Cable TV channels"
+                            ]
+                        }
+3: {
+                            2 items
+"heading": "Stay connected"
+"listItems": [...
+                            ]1 item
+                        }
+4: {
+                            2 items
+"heading": "More"
+"listItems": [
+                                2 items
+0: "Daily housekeeping"
+1: "In-room safe"
+                            ]
+                        }
+                    ]
+                }
+            ]
+"smallPrint": {...
+            }6 items
+"specialFeatures": {...
+            }1 item
+"miscellaneous": {...
+            }2 items
+"pageInfo": {...
+            }3 items
+"unavailable": {}0 items
+        }
+"common": {...
+        }2 items
+    }
+"transportation": {
+        1 item
+"transportLocations": [
+            2 items
+0: {
+                2 items
+"category": "airport"
+"locations": [
+                    1 item
+0: {
+                        3 items
+"name": "Bhopal (BHO) -"
+"distance": ""
+"distanceInTime": "21 min drive"
+                    }
+                ]
+            }
+1: {
+                2 items
+"category": "train-station"
+"locations": [
+                    2 items
+0: {
+                        3 items
+"name": "Habibganj Railway Station -"
+"distance": ""
+"distanceInTime": "6 min drive"
+                    }
+1: {
+                        3 items
+"name": "Bairagarh Station -"
+"distance": ""
+"distanceInTime": "20 min drive"
+                    }
+                ]
+            }
+        ]
+    }
+"neighborhood": {
+        1 item
+"neighborhoodName": "Maharana Pratap Nagar"
+    }
+}

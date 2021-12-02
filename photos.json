@@ -1,0 +1,350 @@
+{
+    5 items
+    "hotelId": 1081442560
+    "hotelImages": [
+        18 items
+    0: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/bd75e22e_{size}.jpg"
+    "imageId": 74803937
+    "mediaGUID": "bd75e22e-b21c-4023-97cc-4bc29d245005"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    1: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/793f7234_{size}.jpg"
+    "imageId": 74804101
+    "mediaGUID": "793f7234-944d-43ad-9200-9876b9ef31ec"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    2: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/30f7ac33_{size}.jpg"
+    "imageId": 108278894
+    "mediaGUID": "30f7ac33-fbfb-46fd-a262-b2f8fb29bdf4"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    3: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/bf9abfd3_{size}.jpg"
+    "imageId": 74803982
+    "mediaGUID": "bf9abfd3-98ec-4fa2-86ce-cd785cd3a606"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    4: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/3e2b13c1_{size}.jpg"
+    "imageId": 74805031
+    "mediaGUID": "3e2b13c1-9cea-4bb6-af0d-ae32956d631b"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    5: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/3cfe56e7_{size}.jpg"
+    "imageId": 108279203
+    "mediaGUID": "3cfe56e7-e2d2-496d-a4c1-73bf97929cf0"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    6: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/8738348f_{size}.jpg"
+    "imageId": 108280157
+    "mediaGUID": "8738348f-4061-4029-900b-bad57ba52b1d"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    7: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/85b4e27b_{size}.jpg"
+    "imageId": 108279564
+    "mediaGUID": "85b4e27b-f552-45b4-95f2-e0ed602fac63"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    8: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/e1e323b7_{size}.jpg"
+    "imageId": 108279293
+    "mediaGUID": "e1e323b7-1f27-47ab-84e5-19ae2e5f2bed"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    9: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/dc498d3a_{size}.jpg"
+    "imageId": 74805410
+    "mediaGUID": "dc498d3a-3c20-4d25-84cc-c3e5f005aae5"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    10: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/037f2d93_{size}.jpg"
+    "imageId": 108279643
+    "mediaGUID": "037f2d93-7120-4764-982d-2d2ef8c5ac74"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    11: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/453e404d_{size}.jpg"
+    "imageId": 108278991
+    "mediaGUID": "453e404d-9934-42a2-9fc0-b30607e5e31a"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    12: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/05de3351_{size}.jpg"
+    "imageId": 74805370
+    "mediaGUID": "05de3351-3c22-495c-99be-58a038232980"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    13: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/aa6d43b7_{size}.jpg"
+    "imageId": 74805221
+    "mediaGUID": "aa6d43b7-3610-42c3-b1cf-267bcef96243"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    14: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/ba26c54c_{size}.jpg"
+    "imageId": 108279113
+    "mediaGUID": "ba26c54c-1eef-491e-b53d-52c9e88c37ae"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    15: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/44f26571_{size}.jpg"
+    "imageId": 74804135
+    "mediaGUID": "44f26571-20c6-4953-951f-eec5f4fdb667"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    16: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/e8e2774e_{size}.jpg"
+    "imageId": 74804112
+    "mediaGUID": "e8e2774e-4328-456d-96df-7e7c8144e950"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    17: {
+            5 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/5914377f_{size}.jpg"
+    "imageId": 74805104
+    "mediaGUID": "5914377f-94c8-4c9f-83de-1cf1e356d555"
+    "sizes": [...
+            ]11 items
+    "trackingDetails": {...
+            }3 items
+        }
+    ]
+    "roomImages": [
+        4 items
+    0: {
+            2 items
+    "roomId": 216631609
+    "images": [
+                4 items
+    0: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/05de3351_{size}.jpg"
+    "imageId": 74805370
+    "mediaGUID": "05de3351-3c22-495c-99be-58a038232980"
+    "sizes": [...
+                    ]11 items
+                }
+    1: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/3cfe56e7_{size}.jpg"
+    "imageId": 108279203
+    "mediaGUID": "3cfe56e7-e2d2-496d-a4c1-73bf97929cf0"
+    "sizes": [...
+                    ]11 items
+                }
+    2: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/e1e323b7_{size}.jpg"
+    "imageId": 108279293
+    "mediaGUID": "e1e323b7-1f27-47ab-84e5-19ae2e5f2bed"
+    "sizes": [...
+                    ]11 items
+                }
+    3: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/793f7234_{size}.jpg"
+    "imageId": 74804101
+    "mediaGUID": "793f7234-944d-43ad-9200-9876b9ef31ec"
+    "sizes": [...
+                    ]11 items
+                }
+            ]
+        }
+    1: {
+            2 items
+    "roomId": 216631608
+    "images": [
+                1 item
+    0: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/793f7234_{size}.jpg"
+    "imageId": 74804101
+    "mediaGUID": "793f7234-944d-43ad-9200-9876b9ef31ec"
+    "sizes": [...
+                    ]11 items
+                }
+            ]
+        }
+    2: {
+            2 items
+    "roomId": 216631611
+    "images": [
+                5 items
+    0: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/5914377f_{size}.jpg"
+    "imageId": 74805104
+    "mediaGUID": "5914377f-94c8-4c9f-83de-1cf1e356d555"
+    "sizes": [...
+                    ]11 items
+                }
+    1: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/85b4e27b_{size}.jpg"
+    "imageId": 108279564
+    "mediaGUID": "85b4e27b-f552-45b4-95f2-e0ed602fac63"
+    "sizes": [...
+                    ]11 items
+                }
+    2: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/037f2d93_{size}.jpg"
+    "imageId": 108279643
+    "mediaGUID": "037f2d93-7120-4764-982d-2d2ef8c5ac74"
+    "sizes": [...
+                    ]11 items
+                }
+    3: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/8738348f_{size}.jpg"
+    "imageId": 108280157
+    "mediaGUID": "8738348f-4061-4029-900b-bad57ba52b1d"
+    "sizes": [...
+                    ]11 items
+                }
+    4: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/793f7234_{size}.jpg"
+    "imageId": 74804101
+    "mediaGUID": "793f7234-944d-43ad-9200-9876b9ef31ec"
+    "sizes": [...
+                    ]11 items
+                }
+            ]
+        }
+    3: {
+            2 items
+    "roomId": 216631610
+    "images": [
+                5 items
+    0: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/aa6d43b7_{size}.jpg"
+    "imageId": 74805221
+    "mediaGUID": "aa6d43b7-3610-42c3-b1cf-267bcef96243"
+    "sizes": [...
+                    ]11 items
+                }
+    1: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/dc498d3a_{size}.jpg"
+    "imageId": 74805410
+    "mediaGUID": "dc498d3a-3c20-4d25-84cc-c3e5f005aae5"
+    "sizes": [...
+                    ]11 items
+                }
+    2: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/453e404d_{size}.jpg"
+    "imageId": 108278991
+    "mediaGUID": "453e404d-9934-42a2-9fc0-b30607e5e31a"
+    "sizes": [...
+                    ]11 items
+                }
+    3: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/ba26c54c_{size}.jpg"
+    "imageId": 108279113
+    "mediaGUID": "ba26c54c-1eef-491e-b53d-52c9e88c37ae"
+    "sizes": [...
+                    ]11 items
+                }
+    4: {
+                    4 items
+    "baseUrl": "https://exp.cdn-hotels.com/hotels/34000000/33770000/33763900/33763830/793f7234_{size}.jpg"
+    "imageId": 74804101
+    "mediaGUID": "793f7234-944d-43ad-9200-9876b9ef31ec"
+    "sizes": [...
+                    ]11 items
+                }
+            ]
+        }
+    ]
+    "featuredImageTrackingDetails": {
+        3 items
+    "version": "20211128"
+    "namespace": "DataScience"
+    "algorithmName": "herobandit.v20201116-contextual-heroaesthetics.v20200130-hsc.v20190223"
+    }
+    "propertyImageTrackingDetails": {
+        3 items
+    "version": "20211128"
+    "namespace": "DataScience"
+    "algorithmName": "heroaesthetics.v20190411-hsc.v20190223"
+    }
+}
